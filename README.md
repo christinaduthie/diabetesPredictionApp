@@ -1,1 +1,1 @@
-# diabetespredictionapp
+# diabetes-prediction-app
