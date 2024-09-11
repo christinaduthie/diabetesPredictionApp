@@ -1,6 +1,5 @@
 from flask import Flask,request, url_for, redirect, render_template
 import pandas as pd
-from urllib.parse import urlsplit
 
 import pickle
 app = Flask(__name__)
